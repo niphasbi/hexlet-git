@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="GmLVyQitlST7lQUEqwBB" name="Page-1">
+        <mxGraphModel dx="1619" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="dsfds" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=role;archiType=square;fontColor=#030303;strokeColor=#0d0d0d;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="250" width="150" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="lkhlkjlkj" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;fontColor=#343232;strokeColor=#080808;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="250" width="150" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="html=1;endArrow=diamondThin;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3" target="2" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="420" y="410" as="sourcePoint"/>
+                        <mxPoint x="580" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="540" width="150" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="540" width="150" height="75" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
