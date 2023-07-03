@@ -1,10 +1,11 @@
 // header (required)
-erdiagram Система проектирования прикладных решений
+erdiagram SPPR
 
 // notation (optional)
 notation=default
 
 // model elements
-entity E1 { id1 key }
-entity E2 { id2 key }
-relationship Rel { E1 -> E2 } 
+entity Process1 { id1 key }
+entity Process2 { id2 key }
+
+relationship Rel { Process1[1] -> Process2[1..N] }
